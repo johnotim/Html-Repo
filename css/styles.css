@@ -17,10 +17,22 @@ p {
 span {
   font-family: "poppins", sans-serif;
   font-size: 15px;
+  padding-top: 20px;
 }
 .thankyou h1 {
   font-family: "poppins", sans-serif;
   font-size: 75px;
   text-transform: uppercase;
   letter-spacing: 4px;
+}
+a {
+  text-decoration: none;
+  font-family: "poppins", sans-serif;
+  font-size: 15px;
+  letter-spacing: 4px;
+  padding-left: 20px;
+}
+
+a:hover {
+  color: brown;
 }
