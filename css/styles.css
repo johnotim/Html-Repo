@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.body-wrapper {
+  padding: 0px 50px;
+}
+h1 {
+  font-family: "poppins", sans-serif;
+  font-size: 35px;
+  padding-top: 50px;
+}
+p {
+  font-family: "poppins", sans-serif;
+  font-size: 25px;
+}
+span {
+  font-family: "poppins", sans-serif;
+  font-size: 15px;
+}
+.thankyou h1 {
+  font-family: "poppins", sans-serif;
+  font-size: 75px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
