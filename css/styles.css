@@ -9,6 +9,7 @@ h1 {
   font-family: "poppins", sans-serif;
   font-size: 35px;
   padding-top: 50px;
+  text-transform: uppercase;
 }
 p {
   font-family: "poppins", sans-serif;
@@ -22,6 +23,7 @@ span {
 .thankyou h1 {
   font-family: "poppins", sans-serif;
   font-size: 75px;
+  font-weight: 900;
   text-transform: uppercase;
   letter-spacing: 4px;
 }
